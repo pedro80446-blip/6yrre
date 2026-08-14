@@ -1,4 +1,4 @@
-# Game Design Document — "Imagem da logo Infernaut"
+# Game Design Document — "Infernaut"
 
 **Versão do build:** alpha-0.78
 **Engine:** Godot 4.7 (GL Compatibility)
