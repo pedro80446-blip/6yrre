@@ -8,7 +8,7 @@
 
 ## 1. Descrição Geral
 
-Infernaut é um jogo estilo **Vampire Survivors misturado com sidescroller**. Ondas de inimigos aparecem e devem ser derrotadas em um sistema de ondas que avança progressivamente até o confronto com o chefão.
+Infernaut é um jogo estilo **Vampire Survivors misturado com sidescroller com cenário infinito**. Ondas de inimigos aparecem e devem ser derrotadas em um sistema de ondas que avança progressivamente até o confronto com o chefão.
 
 ---
 
